@@ -1,0 +1,24 @@
+@charset "UTF-8";
+.question {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    color: rgba(53,148,245,1.00);
+}
+.box {
+    min-height: 0px;
+    width: 960px;
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+    letter-spacing: normal;
+    word-spacing: normal;
+    list-style-position: outside;
+}
+.section {
+    margin-top: 32px;
+    margin-right: 32px;
+    margin-bottom: 32px;
+    margin-left: 32px;
+    padding-top: 24px;
+    padding-right: 24px;
+    padding-bottom: 24px;
+    padding-left: 24px;
+    border-left: thick solid rgba(53,151,242,1.00);
+}
