@@ -24,13 +24,13 @@ body {
     margin-right: auto;
     margin-bottom: auto;
     margin-left: auto;
-    background-position: 95px 15%;
+    background-position: -30px -28%;
     display: grid;
     grid-template-columns: 50% 50%;
     font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
     -webkit-box-shadow: 0px 0px 0px;
     box-shadow: 0px 0px 0px;
-    background-image: url(../img/pexels-aleksandar-pasaric-3048526.jpg);
+    background-image: url(../img/pexels-aleksandar-pasaric-3048538.jpg);
 }
 #movie-desc div .overview {
     line-height: 20px;
